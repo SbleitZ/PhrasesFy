@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PhrasesFy/static/css/main.b6313bd6.css",
-    "main.js": "/PhrasesFy/static/js/main.13586655.js",
+    "main.js": "/PhrasesFy/static/js/main.2fef2db4.js",
     "static/media/logo.svg": "/PhrasesFy/static/media/logo.e99de9f7c8640bbdcd7b679b008b4f01.svg",
     "index.html": "/PhrasesFy/index.html",
     "main.b6313bd6.css.map": "/PhrasesFy/static/css/main.b6313bd6.css.map",
-    "main.13586655.js.map": "/PhrasesFy/static/js/main.13586655.js.map"
+    "main.2fef2db4.js.map": "/PhrasesFy/static/js/main.2fef2db4.js.map"
   },
   "entrypoints": [
     "static/css/main.b6313bd6.css",
-    "static/js/main.13586655.js"
+    "static/js/main.2fef2db4.js"
   ]
 }
